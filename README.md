@@ -10,6 +10,7 @@ Features
 Requirements
 - Python 3.10+ (or your environment's Python)
 - Packages: `pandas`, `requests`, optionally `python-dotenv` to load saved API key
+    - These can be installed by running `pip install -r requirements.txt`
 
 Usage
 - Save an API key:
